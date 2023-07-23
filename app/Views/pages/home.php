@@ -35,7 +35,7 @@
                 <div class="column mcb-column one column_column">
                     <div class="column_attr clearfix" style="padding:0 10% 0 0;">
                         <h6 class="themecolor">OUR SERVICES</h6>
-                        <h2>What we can do for you?</h2>
+                        <h2>O que podemos fazer por você?</h2>
                         <hr class="no_line" style="margin: 0 auto 30px;" />
                         <a class="main-bg-color button button_size_2 button_theme button_js" href=""
                             target="_blank"><span class="button_label">shit dahmn</span></a>
@@ -55,13 +55,10 @@
                         style="background-image:url('<?= base_url('assets/s_asset/images/hero3.jpg')?>'); background-repeat:no-repeat; background-position:center bottom; padding:220px 0 0 35%;">
                         <div style="padding: 60px 13% 45px; background: #18181a;">
                             <h6 class="themecolor">02</h6>
-                            <h4><a href="#">Clips & music
-                                    <br>
-                                    videos</a></h4>
-                            <p>
-                                Ut laoreet mollis. Nunc id tellus finibus, eleifend mi vel,
-                                maximus.
-                            </p>
+                            <h4><a href="#">Conteúdo para Mídias Sociais</a></h4>
+                            <p>Maximize sua presença nas redes sociais com vídeos, aproveitando as vantagens de conteúdo
+                                envolvente, visualmente cativante e estrategicamente adaptado para impulsionar o
+                                engajamento e alcançar seu público-alvo de forma eficaz.</p>
                         </div>
                     </div>
                 </div>
@@ -83,11 +80,9 @@
                         style="background-image:url('<?= base_url('assets/s_asset/images/hero4.jpg')?>'); background-repeat:no-repeat; background-position:center top; padding:0 35% 220px 0;">
                         <div style="padding: 60px 13% 45px; background: #18181a;">
                             <h6 class="themecolor">01</h6>
-                            <h4><a href="#">Movies & advertising videos</a></h4>
-                            <p>
-                                Ut laoreet mollis. Nunc id tellus finibus, eleifend mi vel,
-                                maximus.
-                            </p>
+                            <h4><a href="#">Institucional</a></h4>
+                            <p>Sua empresa se beneficia do impacto visual e da comunicação clara, transmitindo sua
+                                mensagem com credibilidade e profissionalismo. </p>
                         </div>
                     </div>
                 </div>
@@ -96,10 +91,9 @@
                         style="background-image:url('<?= base_url('assets/s_asset/images/hero5.jpg')?>'); background-repeat:no-repeat; background-position:center top; padding:0 0 120px 35%;">
                         <div style="padding: 60px 13% 45px; background: #18181a;">
                             <h6 class="themecolor">03</h6>
-                            <h4><a href="#">Short film productions</a></h4>
-                            <p>
-                                Ut laoreet mollis. Nunc id tellus finibus, eleifend mi vel,
-                                maximus.
+                            <h4><a href="#">Video Aula</a></h4>
+                            <p>Tem um material para aula, e quer trazê-lo para o digital? Grave aulas conosco e desfrute
+                                das vantagens de conteúdo envolvente e profissional para educar e inspirar seu público.
                             </p>
                         </div>
                     </div>
@@ -114,8 +108,8 @@
             <div class="mcb-wrap-inner">
                 <div class="column mcb-column one column_column">
                     <div class="column_attr clearfix">
-                        <h6 class="themecolor">WHAT’S NEW?</h6>
-                        <h2>About us</h2>
+                        <h6 class="themecolor">QUEM SOMOS?</h6>
+                        <h2>Sobre nós</h2>
                     </div>
                 </div>
                 <div class="column mcb-column one column_divider">
@@ -123,33 +117,20 @@
                 </div>
                 <div class="column mcb-column one-third column_column">
                     <div class="column_attr clearfix" style="padding:0 7% 0 0;">
-                        <h6>FUSCE UT VELIT</h6>
-                        <h4>Nam vel justo cursus, faucibus lorem eget, egestas eros</h4>
-                        <p>
-                            Suspendisse vel facilisis odio, at ornare nibh. In malesuada, tortor
-                            eget sodales mollis
-                        </p>
+                        <p>Somos uma produtora audiovisual especializada em criar conteúdos visualmente cativantes.</p>
                     </div>
                 </div>
                 <div class="column mcb-column one-third column_column">
                     <div class="column_attr clearfix" style="padding:0 7% 0 0;">
-                        <h6>DUIS DIGNISSIM</h6>
-                        <h4>Nunc id tellus finibus, eleifend mi vel, maximus justo. Maecenas
-                        </h4>
-                        <p>
-                            Phasellus vitae vulputate elit. Fusce interdum justo quis libero
-                            ultricies laoreet.
-                        </p>
+                        <p>Com uma abordagem criativa e técnica, oferecemos uma ampla gama de serviços, desde videoaulas
+                            e vídeos institucionais até fotografia de eventos, ensaios, fashion films, highlights de
+                            eventos e podcasts.</p>
                     </div>
                 </div>
                 <div class="column mcb-column one-third column_column">
                     <div class="column_attr clearfix" style="padding:0 7% 0 0;">
-                        <h6>LOREM IPSUM</h6>
-                        <h4>Nulla mauris dolor, gravida a varius blandit, auctor eget purus</h4>
-                        <p>
-                            lass aptent taciti sociosqu ad litora torquent per conubia nostra,
-                            per inceptos himenaeos.
-                        </p>
+                        <p>Trabalhamos de perto com nossos clientes, entendendo suas necessidades e objetivos, para
+                            entregar resultados únicos e memoráveis.</p>
                     </div>
                 </div>
                 <div class="column mcb-column one column_divider">
@@ -157,9 +138,8 @@
                 </div>
                 <div class="column mcb-column one column_button">
                     <div class="button_align align_center">
-                        <a class="main-bg-color button button_size_2 button_theme button_js"
-                            href="content/video2/about.html"><span class="button_label">read
-                                more about us</span></a>
+                        <a class="main-bg-color button button_size_2 button_theme button_js" href=""><span
+                                class="button_label">Leia mais sobre nós</span></a>
                     </div>
                 </div>
             </div>

@@ -70,9 +70,8 @@
                                 data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; white-space: nowrap; font-size: 60px; line-height: 70px; font-weight: 400; color: #fff; letter-spacing: 0px;font-family:Montserrat;">
-                                cool stuff
-                                <br> right here
+                                style="z-index: 6;font-size: white-space: nowrap; font-size: 60px; line-height: 70px; font-weight: 400; color: #fff; letter-spacing: 0px;font-family:Montserrat;">
+                                Transformando ideias<br>em imagens inesquecíveis
                             </div>
                             <div class="main-bg-color tp-caption rev-btn tp-resizeme" id="slide-1-layer-4" data-x="40"
                                 data-y="283" data-width="['auto']" data-height="['auto']" data-type="button"

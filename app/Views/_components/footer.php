@@ -8,7 +8,7 @@
             <div class="column one">
                 <a id="back_to_top" class="button button_js" href="#"><i class="icon-up-open-big"></i></a>
                 <div class="copyright">
-                    &copy; 2023 LuaFilms - Todos os direitos reservados
+                    &copy; <span id="copyyear"></span> LuaFilms - Todos os direitos reservados
                 </div>
                 <ul class="social">
                     <li class="facebook">
@@ -48,3 +48,7 @@
     </ul>
 </div>
 <div id="body_overlay"></div>
+
+<script>
+document.getElementById('copyyear').innerHTML = new Date().getFullYear()
+</script>
